@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a nutritionist and Computer Engineering student passionate about data, machine learning, and the endless possibilities of AI. I'm currently exploring the fundamentals of data analysis, Python, and ML algorithms, and sharing my learning journey through small projects.
+I'm a Computer Engineering student passionate about data, machine learning, and the endless possibilities of AI. I'm currently exploring the fundamentals of data analysis, Python, and ML algorithms, and sharing my learning journey through small projects.
 
 - 🔭 I’m currently working on: personal projects using Python and scikit-learn
 - 🌱 I’m currently learning: machine learning, data visualization, and SQL
